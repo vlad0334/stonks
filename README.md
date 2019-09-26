@@ -1,2 +1,0 @@
-# stonks
-Cool Anti BackDoor
